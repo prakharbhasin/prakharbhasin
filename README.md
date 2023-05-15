@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![wakatime](https://wakatime.com/badge/user/52089fcf-25ea-401b-aa4a-7fe19b7896d0.svg)](https://wakatime.com/@52089fcf-25ea-401b-aa4a-7fe19b7896d0)
+[![wakatime](https://wakatime.com/badge/user/1b41af2d-dd85-428a-a268-408876f11da7.svg)](https://wakatime.com/@1b41af2d-dd85-428a-a268-408876f11da7)
 
 <!--
 **prakharbhasin/prakharbhasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
