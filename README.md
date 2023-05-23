@@ -1,5 +1,4 @@
 ### Hi there 👋
- 😄 Pronouns: He/Him
 
 [![wakatime](https://wakatime.com/badge/user/1b41af2d-dd85-428a-a268-408876f11da7.svg)](https://wakatime.com/@1b41af2d-dd85-428a-a268-408876f11da7)
 
